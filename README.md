@@ -1,4 +1,11 @@
 # N8
-Process, analyze, and visualize 8D arrays (4D for space-time series, 4D for metadata)
+Process, analyze, and visualize space-time series data stored in single 8D array:
 
-This is a repository of scripts for working with imaging data saved as a single 8D array with dimensions 1-3 reserved for space, dimension 4 for time, and dimensions 5-8 for metadata (e.g., dimension 5 = condition, dimension 6 = subject, dimension 7 = trial, and dimension 8 = channel).
+Dimension 1 - Space (x)
+Dimension 2 - Space (y)
+Dimension 3 - Space (z - depth)
+Dimension 4 - Time
+Dimension 5 - Other (condition)
+Dimension 6 - Other (subject)
+Dimension 7 - Other (trial)
+Dimension 8 - Other (channel/n-trode)
