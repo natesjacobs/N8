@@ -1,18 +1,18 @@
 # N8
-Process, analyze, and visualize space-time series data stored in single 8D array with the following dimensions:
+Process, analyze, and visualize space-time series data stored in single 8D array:
 
-D1 - Space (x)
+Dimension 1 - Space (x)
 
-D2 - Space (y)
+Dimension 2 - Space (y)
 
-D3 - Space (z - depth)
+Dimension 3 - Space (z - depth)
 
-D4 - Time
+Dimension 4 - Time
 
-D5 - Other (condition)
+Dimension 5 - Other (condition)
 
-D6 - Other (subject)
+Dimension 6 - Other (subject)
 
-D7 - Other (trial)
+Dimension 7 - Other (trial)
 
-D8 - Other (channel/n-trode)
+Dimension 8 - Other (channel/n-trode)
