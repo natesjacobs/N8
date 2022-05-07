@@ -1,0 +1,3 @@
+function n8reducesamplerate(newsamplerate)
+
+%...
